@@ -1,0 +1,5 @@
+tensorflow==2.0.0-alpha0
+opencv-python==4.1.0.25
+numpy==1.13.3
+tqdm==4.31.1
+matplotlib==3.0.3
