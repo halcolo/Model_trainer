@@ -28,7 +28,7 @@ In linux maybe you need the following package `sudo apt-get install python3-venv
 
 This app has two parts, the first part is composed by _verifyData.py_ this file show you how OpenCV read the pull if you run `python3 verifyData.py` the app show the image and you can quit the image with "_q_" key.
 
-![:pixeldata:](https://github.com/halcolo/Model_trainer/img/pixeldata.png?raw=true ":pixeldata:")
+![:pixeldata:](https://github.com/halcolo/Model_trainer/blob/master/img/pixeldata.png?raw=true ":pixeldata:")
 
 **MATRIX**\
 [[224 224 225 ..., 242 242 241]\
@@ -39,7 +39,7 @@ This app has two parts, the first part is composed by _verifyData.py_ this file 
  [ 87  87  84 ..., 122 125 125]\
  [ 74  74  84 ..., 114 106 107]]
 
- ![:blurdata:](https://github.com/halcolo/Model_trainer/img/blurdata.png?raw=true ":blurdata:")
+ ![:blurdata:](https://github.com/halcolo/Model_trainer/blob/master/img/blurdata.png?raw=true ":blurdata:")
 
  **MATRIX**\
 [[224 224 224 ..., 241 241 241]\

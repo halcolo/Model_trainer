@@ -1,5 +1,5 @@
 import random
-from training import *
+from training import Training
 
 if __name__ == "__main__":
 
@@ -14,7 +14,7 @@ if __name__ == "__main__":
     # Proces to start the training
     training_model.create_training_data()
     # Verify Dataset Len
-    print('Number of Dataset trained: ',len(training))
+    print('Number of Dataset trained: ', len(training))
     # Use shuffle from dataset
     random.shuffle(training)
     # Iterate shuffle to verify the data learned
